@@ -1,0 +1,32 @@
+<TCIntercambio>
+    <infoTC Sistema "S1">
+        <TCHabiente>Juan Perez</TCHabiente>
+        <TCDireccion>Direccion Juan Perez</TCDireccion>
+        <TCId>123456789</TCDireccion>
+        <tCSaldos>
+            <TCSAnterior>5000</TCSAnterior>
+            <TCSActual>3000</TCSActual>
+        </TCSaldos>
+        <TCMovimientos>
+            <TCFechaMovimiento>2023-01-12 :18:01:59.50</TCFechaMovimiento>
+            <TCEstablecimiento>EST2014561</TCEstablecimiento>
+            <TCSTipoMovimiento>cargo</TCSTipoMovimiento>
+            <TCMontoMovimiento>2000</TCMontoMovimiento>        
+        </TCMovimientos>
+    </InfoTC>
+    <infoTC Sistema "S2">
+        <TCHabiente>Juan Perez</TCHabiente>
+        <TCDireccion>Direccion Juan Perez</TCDireccion>
+        <TCId>123456789</TCDireccion>
+        <tCSaldos>
+            <TCSAnterior>5000</TCSAnterior>
+            <TCSActual>3000</TCSActual>
+        </TCSaldos>
+        <TCMovimientos>
+            <TCFechaMovimiento>2023-01-12 :18:01:59.50</TCFechaMovimiento>
+            <TCEstablecimiento>EST2014561</TCEstablecimiento>
+            <TCSTipoMovimiento>cargo</TCSTipoMovimiento>
+            <TCMontoMovimiento>2000</TCMontoMovimiento>        
+        </TCMovimientos>
+    </InfoTC>
+</TCIntercambio>
